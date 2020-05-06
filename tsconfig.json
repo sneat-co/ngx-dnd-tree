@@ -20,11 +20,11 @@
       "dom"
     ],
     "paths": {
-      "ngx-dnd-tree": [
-        "dist/ngx-dnd-tree"
+      "ngx-dnd-tree-lib": [
+        "dist/ngx-dnd-tree-lib"
       ],
       "ngx-dnd-tree/*": [
-        "dist/ngx-dnd-tree/*"
+        "dist/ngx-dnd-tree-lib/*"
       ]
     }
   }
