@@ -1,6 +1,20 @@
 {
   "name": "@sneat/ngx-dnd-tree",
   "version": "0.0.1",
+  "author": "Alexander Trakhimenok @ https://sneat.team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sneat-team/ngx-dnd-tree"
+  },
+  "homepage": "https://sneat.team/",
+  "keywords": [
+    "angular",
+    "dnd",
+    "reactive",
+    "tree",
+    "typescript"
+  ],
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^9.1.4",
     "@angular/core": "^9.1.4"
