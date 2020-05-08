@@ -1,12 +1,12 @@
 {
   "name": "@sneat/ngx-dnd-tree",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Alexander Trakhimenok @ https://sneat.team",
   "repository": {
     "type": "git",
     "url": "https://github.com/sneat-team/ngx-dnd-tree"
   },
-  "homepage": "https://sneat.team/",
+  "homepage": "https://sneat.team",
   "keywords": [
     "angular",
     "dnd",
@@ -17,6 +17,9 @@
   "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^9.1.4",
-    "@angular/core": "^9.1.4"
+    "@angular/core": "^9.1.4",
+    "@angular-skyhook/core": "^1.4.0-rc.0",
+    "@angular-skyhook/multi-backend": "^1.4.0-rc.0",
+	"@angular-skyhook/sortable": "^1.4.0-rc.0"
   }
 }

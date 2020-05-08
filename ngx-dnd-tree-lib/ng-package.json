@@ -2,6 +2,11 @@
   "$schema": "../node_modules/ng-packagr/ng-package.schema.json",
   "dest": "../dist/ngx-dnd-tree-lib",
   "lib": {
-    "entryFile": "src/public_api.ts"
+    "entryFile": "src/public_api.ts",
+    "umdModuleIds": {
+      "@angular-skyhook/core": "skyhook-core",
+      "@angular-skyhook/multi-backend": "skyhook-multi-backend",
+      "@angular-skyhook/sortable": "skyhook-sortable"
+    }
   }
 }
