@@ -47,7 +47,7 @@
     "ng-packagr": "10.1.2",
     "protractor": "5.4.4",
     "ts-node": "8.10.2",
-    "tslint": "5.11.0",
+    "tslint": "5.20.1",
     "typescript": "3.9.10"
   }
 }
