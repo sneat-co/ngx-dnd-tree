@@ -23,7 +23,7 @@
     "@angular-skyhook/multi-backend": "1.4.0-rc.0",
     "@angular-skyhook/sortable": "1.4.0-rc.0",
     "core-js": "2.6.12",
-    "rxjs": "6.5.5",
+    "rxjs": "6.6.7",
     "tslib": "1.14.1",
     "zone.js": "0.10.3"
   },
