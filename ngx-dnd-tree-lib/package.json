@@ -16,8 +16,8 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^9.1.4",
-    "@angular/core": "^9.1.4",
+    "@angular/common": "^9.1.4 || ^12.0.0",
+    "@angular/core": "^9.1.4 || ^12.0.0",
     "@angular-skyhook/core": "^1.4.0-rc.0",
     "@angular-skyhook/multi-backend": "^1.4.0-rc.0",
 	"@angular-skyhook/sortable": "^1.4.0-rc.0"
